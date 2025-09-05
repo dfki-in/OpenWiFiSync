@@ -1,6 +1,6 @@
 # OpenWiFiSync
 - This open source project intents to implement a clock synchronization algorithm for Wi-Fi using commercial-off-the-shelf Wi-Fi cards.
-- Basis of the submitted [paper](): *"OpenWiFiSync: Open Source Implementation of a Clock Synchronization Algorithm using Wi-Fi"*
+- Basis of the submitted [paper](https://ieeexplore.ieee.org/abstract/document/10710826): *"OpenWiFiSync: Open Source Implementation of a Clock Synchronization Algorithm using Wi-Fi"*
 
 <ins>Please cite as:</ins>\
 *M. Gundall and Hans D. Schotten, "OpenWiFiSync: Open Source Implementation of a Clock Synchronization Algorithm using Wi-Fi", \
