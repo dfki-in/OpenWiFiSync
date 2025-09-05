@@ -13,7 +13,7 @@ IEEE 30th International Conference on Emerging Technologies and Factory Automati
   author      =   {M. Gundall, J. Herbst, R. Müller, and H. D. Schotten},
   booktitle   =   {IEEE 30th International Conference on Emerging Technologies and Factory Automation (ETFA)},
   title       =   {Benchmarking OpenWiFiSync on ESP32: Towards Cost-Effective Wireless Time Synchronization},
-  year        =   {2024},
+  year        =   {2025},
   month       =   {Sep.}, 
   pages       =   {},
   volume      =   {1},
