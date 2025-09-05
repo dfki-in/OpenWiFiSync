@@ -1,0 +1,13 @@
+CompileFlags:
+  CompilationDatabase: build
+  Add:
+    - -D__INT32_TYPE__=long int
+    - -D__UINT32_TYPE__=long unsigned int
+  Remove:
+    - -fno-tree-switch-conversion
+    - -fno-shrink-wrap
+    - -mtext-section-literals
+    - -mlongcalls
+    - -fstrict-volatile-bitfields
+    - -mdisable-hardware-atomics
+    - -march=rv32imac_zicsr_zifencei
